@@ -7,6 +7,10 @@ rgs = {
     name     = "rg-git1git -dev"
     location = "centralindia"
   }
+    rg3 = {
+    name     = "rg-git2 -dev"
+    location = "centralindia"
+  }
 }
 
 vnets = {
